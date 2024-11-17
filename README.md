@@ -1,36 +1,73 @@
-# Lens Craft Photography Portfolio
+# Lens Craft - Fotoğrafçılık Portföy Projesi
 
-## Proje Açıklaması
-Lens Craft Photography, profesyonel bir fotoğrafçının kişisel portfolyo web sitesidir. Proje, tamamen HTML ve CSS kullanılarak geliştirilmiştir.
+## Proje Hakkında
+Bu proje, Web Uygulamaları Geliştirme dersi kapsamında geliştirilen bir fotoğrafçılık portföy sitesidir. Proje, modern web tasarım prensiplerini ve responsive tasarım yaklaşımını kullanarak, saf HTML ve CSS ile oluşturulmuştur.
 
-## Özellikler
-- Responsive tasarım
-- 5 farklı sayfa (Anasayfa, Galeri, Hakkımda, Hizmetler, İletişim)
-- Modern ve minimalist tasarım
-- Türkçe içerik
+## Öğrenci Bilgileri
+- **Ad Soyad:** [Fatih Dönmez]
+- **Numara:** [21040301030]
+- **Ders:** Web Uygulamaları Geliştirme
+- **Bölüm:** [Yazılım Mühendisliği]
 
-## Sayfalar
-1. **Anasayfa**: Fotoğrafçının öne çıkan çalışmalarını ve genel tanıtımını içerir
-2. **Galeri**: Fotoğraf koleksiyonunu sergiler
-3. **Hakkımda**: Fotoğrafçının biyografisi ve uzmanlık alanları
-4. **Hizmetler**: Sunulan fotoğrafçılık hizmetleri ve fiyatları
-5. **İletişim**: İletişim formu ve iletişim bilgileri
+## Proje Özellikleri
+- **Saf HTML ve CSS:** Proje, herhangi bir JavaScript veya harici framework kullanmadan geliştirilmiştir.
+- **Responsive Tasarım:** Mobil cihazlardan masaüstü bilgisayarlara kadar tüm ekran boyutlarına uyumlu tasarım.
+- **Türkçe İçerik:** Site içeriği Türkçe olarak hazırlanmıştır.
+- **5 Sayfa İçeriği:**
+  - Ana Sayfa (index.html)
+  - Galeri (gallery.html)
+  - Hakkımda (about.html)
+  - Hizmetler (services.html)
+  - İletişim (contact.html)
 
-## Kullanılan Teknolojiler
-- HTML5
-- CSS3
+## Teknik Özellikler
+1. **CSS Özellikleri**
+   - Flexbox layout sistemi
+   - Media queries ile responsive tasarım
+   - CSS Grid sistemi
+   - Modern renk paleti ve tipografi
 
-## Kurulum
-1. Proje dosyalarını bilgisayarınıza indirin
-2. `index.html` dosyasını bir web tarayıcısında açın
+2. **Sayfa Yapısı**
+   - Tutarlı header ve footer tasarımı
+   - Responsive navigasyon menüsü
+   - Optimize edilmiş görsel yerleşimleri
+   - Mobil-öncelikli tasarım yaklaşımı
 
-## Geliştirme
-- Herhangi bir kod düzenleyici ile projeyi düzenleyebilirsiniz
-- Responsive tasarım için CSS medya sorguları kullanılmıştır
+## Proje Yapısı
+```
+web-project/
+│
+├── index.html
+├── gallery.html
+├── about.html
+├── services.html
+├── contact.html
+├── styles.css
+├── README.md
+```
 
-## Lisans
-Bu proje açık kaynaklıdır ve MIT Lisansı altında dağıtılmaktadır.
+## Geliştirme Süreci
+1. Proje planlaması ve wireframe tasarımı
+2. HTML yapısının oluşturulması
+3. CSS ile görsel tasarımın uygulanması
+4. Responsive tasarım uyarlamaları
+5. Test ve optimizasyon
 
-## İletişim
-- E-posta: info@lenscraft.com
-- Telefon: 0532 456 78 90
+## Öğrenilen Konular
+- Modern CSS teknikleri ve best practice'ler
+- Responsive web tasarım prensipleri
+- CSS Grid ve Flexbox kullanımı
+- Clean code yazım teknikleri
+- Web standartları ve erişilebilirlik
+
+## Kurulum ve Çalıştırma
+1. Projeyi bilgisayarınıza indirin
+2. İndirilen klasörü bir web sunucusunda çalıştırın veya doğrudan tarayıcıda açın
+3. `index.html` dosyasını açarak siteyi görüntüleyebilirsiniz
+
+## Kaynaklar
+- MDN Web Docs
+- W3Schools
+- CSS-Tricks
+
+
