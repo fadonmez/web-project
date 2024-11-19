@@ -4,10 +4,10 @@
 Bu proje, Web Uygulamaları Geliştirme dersi kapsamında geliştirilen bir fotoğrafçılık portföy sitesidir. Proje, modern web tasarım prensiplerini ve responsive tasarım yaklaşımını kullanarak, saf HTML ve CSS ile oluşturulmuştur.
 
 ## Öğrenci Bilgileri
-- **Ad Soyad:** [Fatih Dönmez]
-- **Numara:** [21040301030]
+- **Ad Soyad:** Fatih Dönmez
+- **Numara:** 21040301030
 - **Ders:** Web Uygulamaları Geliştirme
-- **Bölüm:** [Yazılım Mühendisliği]
+- **Bölüm:** Yazılım Mühendisliği
 
 ## Proje Özellikleri
 - **Saf HTML ve CSS:** Proje, herhangi bir JavaScript veya harici framework kullanmadan geliştirilmiştir.
